@@ -1,0 +1,12 @@
+{
+  "name": "hd-wallet-path-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bbenligiray/hd-wallet-path-test.git",
+  "author": "Burak Benligiray <bbenligiray@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethersv5": "npm:ethers@5",
+    "ethersv6": "npm:ethers@6"
+  }
+}
